@@ -98,7 +98,7 @@ public class GameService {
         }
     }
 
-    // setRandomNumbers
+    // HomeWork setRandomNumbers
 
     public void print() {
         for (int[] innerArray : gameField.getMatrix()) {
